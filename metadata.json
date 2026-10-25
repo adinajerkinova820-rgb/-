@@ -1,0 +1,8 @@
+{
+  "name": "Luxe Wedding Site Builder",
+  "description": "Свадебный салон Luxe Wedding Salon в г. Жалал-Абад (ТЦ Бренд Микс, 3 этаж). Более 1000 платьев в наличии, размеры XS–XXXL, советы невестам и запись на примерку.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
